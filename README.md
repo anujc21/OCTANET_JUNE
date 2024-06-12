@@ -1,11 +1,11 @@
 # OCTANET_JUNE
 
-##Landing Page
+## Landing Page
 
-###To start the project -
+### To start the project -
 
-####1) Extract the files
-####2) Open command line
-####3) Type "npm install"
-####4) Type "npm run dev"
-####5) Start the localhost port in browser
+#### 1) Extract the files.
+#### 2) Open command line.
+#### 3) Type *npm install*.
+#### 4) Type *npm run dev*.
+#### 5) Start the localhost port in browser.
